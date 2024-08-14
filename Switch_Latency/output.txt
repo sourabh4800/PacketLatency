@@ -1,0 +1,2772 @@
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 25952256
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 40697856
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 75300864
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 68354048
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 120848384
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 86114304
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 126156800
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 82640896
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 122486784
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 67239936
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 88211456
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 151191552
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 148045824
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 94175232
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 91684864
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 72024064
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 77135872
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 69009408
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 70057984
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 78184448
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 62652416
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 69271552
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 58720256
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 84148224
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 43712512
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 93126656
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 66519040
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 77004800
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 75169792
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 103743488
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 67371008
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 50724864
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 119865344
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 89456640
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 82051072
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 50987008
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 84803584
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 23
+      |   |  swlat     = 7
+      |   |  padd      = 2402942976
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 78708736
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 54
+      |   |  swlat     = 27
+      |   |  padd      = 4131127296
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 73859072
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 17
+      |   |  swlat     = 12
+      |   |  padd      = 730071040
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 78774272
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 24
+      |   |  swlat     = 13
+      |   |  padd      = 3728801792
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 73728000
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 36
+      |   |  swlat     = 15
+      |   |  padd      = 1872756736
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 73203712
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 43
+      |   |  swlat     = 17
+      |   |  padd      = 1024786432
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 155844608
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 7
+      |   |  swlat     = 22
+      |   |  padd      = 3794731008
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 111083520
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 2
+      |   |  swlat     = 6
+      |   |  padd      = 2403860480
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 86310912
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 93519872
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 118685696
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 253689856
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 197722112
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 75169792
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 212008960
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 74711040
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 80674816
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 97779712
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 87818240
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 106299392
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 90308608
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 98828288
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 25559040
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 141623296
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 116129792
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 80019456
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 77070336
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 118423552
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 81461248
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 87031808
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 88604672
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 109707264
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 38993920
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 62783488
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 90308608
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 76677120
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 86114304
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 77922304
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 116129792
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 92274688
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 92864512
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 125304832
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 86835200
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 170459136
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 81854464
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 64880640
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 68222976
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 67895296
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 76414976
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 71761920
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 84803584
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 57344000
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 73269248
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 55
+      |   |  swlat     = 12
+      |   |  padd      = 3619684352
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 82509824
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 29
+      |   |  swlat     = 14
+      |   |  padd      = 3024683008
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 75038720
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 37
+      |   |  swlat     = 15
+      |   |  padd      = 3107454976
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 105381888
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 45
+      |   |  swlat     = 17
+      |   |  padd      = 2193555456
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 74121216
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 40
+      |   |  swlat     = 26
+      |   |  padd      = 2788818944
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 146538496
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 8
+      |   |  swlat     = 28
+      |   |  padd      = 228655104
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 72810496
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 3
+      |   |  swlat     = 12
+      |   |  padd      = 183042048
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 96141312
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 61079552
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 94699520
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 66584576
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 137035776
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 54984704
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 258211840
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 56885248
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 85327872
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 153616384
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 81068032
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 117243904
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 81985536
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 127270912
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:01:01
+  src       = 08:00:00:00:01:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 14
+     tos       = 0x0
+     len       = 65
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x5ca9
+     src       = 10.0.2.2
+     dst       = 10.0.1.1
+     \options   \
+      |###[ MRI ]### 
+      |  copy_flag = 0
+      |  optclass  = control
+      |  option    = 31
+      |  length    = 36
+      |  count     = 2
+      |  \swtraces  \
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 1
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 100597760
+      |   |###[ SwitchTrace ]### 
+      |   |  swid      = 2
+      |   |  qdepth    = 0
+      |   |  swlat     = 0
+      |   |  padd      = 82378752
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 9
+        chksum    = 0x6026
+###[ Raw ]### 
+           load      = 's'
+
